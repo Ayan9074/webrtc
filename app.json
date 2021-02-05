@@ -1,0 +1,22 @@
+  {
+    "name": "Socket-Call-App",
+    "description": "WEBRTC call app",
+    "website": "https://github.com/Ayan9074/webrtc",
+    "repository": "https://github.com/Ayan9074/webrtc",
+    "logo": "https://node-js-sample.herokuapp.com/node.svg",
+    "success_url": "/",
+    "keywords": [
+      "node",
+      "express",
+      "socket.io",
+      "realtime",
+      "websocket"
+    ],
+    "scripts": {
+    },
+    "addons": [
+    ],
+    "env": {
+      "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs"
+    }
+  }
